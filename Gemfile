@@ -12,6 +12,9 @@ gem 'devise'
 # Gravatar Gem
 gem 'gravatarify', '~> 3.0.0'
 
+# Public Activity
+gem 'public_activity'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
