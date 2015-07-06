@@ -15,6 +15,9 @@ gem 'gravatarify', '~> 3.0.0'
 # Public Activity
 gem 'public_activity'
 
+# Auto HTML
+gem 'auto_html'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
